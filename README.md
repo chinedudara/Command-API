@@ -22,6 +22,7 @@ dotnet run
 
 
 API Routes
+
 | Method | Route | Description |
 | - | - | - |
 | GET: | [/api/commands](/ "Example: localhost:5000/api/commands") | Get all stored commands
